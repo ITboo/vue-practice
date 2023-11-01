@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.btn {
+    width: 50%;
+    height: 40px;
+    color: #fff;
+    background-color: #23007c;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
