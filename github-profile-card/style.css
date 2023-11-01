@@ -1,0 +1,42 @@
+    .container {
+        padding-top: 20px;
+        margin: 0 auto;
+        max-width: 1200px;
+        text-align: center;
+    }
+
+    .cards {
+        width: 80%;
+        display: flex;
+        gap: 30px;
+        margin: 0 auto;
+    }
+
+    .card {
+        display: flex;
+        border-radius: 20px;
+        flex-direction: column;
+        text-align: center;
+        width: 300px;
+        padding: 20px;
+        background-color: rgb(37, 37, 37);
+        font-size: 12px;
+        color: white;
+    }
+
+    img {
+        width: 150px;
+        margin-bottom: 10px;
+    }
+
+    .header{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .meta{
+        margin-top: 10px;
+    }
+
+    .friends{
+        margin-top: 20px;
+    }
